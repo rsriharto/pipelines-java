@@ -1,3 +1,4 @@
+[![Build Status](https://rsriharto.visualstudio.com/CI-CD%20Pipeline/_apis/build/status/rsriharto.pipelines-java?branchName=master)](https://rsriharto.visualstudio.com/CI-CD%20Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
